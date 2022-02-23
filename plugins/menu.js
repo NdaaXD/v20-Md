@@ -168,7 +168,7 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: 'source code',
-               url: `https://github.com/NdaaXD/`
+               url: `https://dashboard.heroku.com/`
              }
 
            },
